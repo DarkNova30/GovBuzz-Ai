@@ -2,13 +2,14 @@
 
 A hackathon project developed for the Smart India Hackathon (SIH) 2023. This app allows citizens to lodge complaints or grievances across multiple departments using text or voice input. The system utilizes AI models for spam detection and department classification.
 
+Demo Video: https://youtu.be/FoRv0ZoHLfc?si=NrQJjBVpGJ9jkSWU
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [How It Works](#how-it-works)
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
-- [Model Details](#model-details)
 - [Data Collection](#data-collection)
 - [Preprocessing](#preprocessing)
 
